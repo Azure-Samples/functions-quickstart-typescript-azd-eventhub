@@ -6,6 +6,7 @@ services:
     project: .
     language: ts
     host: function
+    remoteBuild: true
 
 hooks:
   postprovision:
